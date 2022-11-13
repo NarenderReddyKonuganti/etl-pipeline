@@ -8,8 +8,14 @@
 		"AzureDatabricks1_accessToken": {
 			"value": ""
 		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
 		"AzureDatabricks1_properties_typeProperties_existingClusterId": {
 			"value": "1113-025027-rt35qqp8"
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://airbnbstorageaccount.dfs.core.windows.net/"
 		},
 		"containerUri": {
 			"value": ""
