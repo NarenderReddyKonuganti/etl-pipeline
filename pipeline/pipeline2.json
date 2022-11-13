@@ -24,7 +24,7 @@
 				"typeProperties": {
 					"notebookPath": "/Repos/narenderreddy548@gmail.com/etl-pipeline/data-load-transform",
 					"baseParameters": {
-						"filename": "SRDataEngineerChallenge.csv"
+						"filename": "SRDataEngineerChallenge_DATASET.csv"
 					}
 				},
 				"linkedServiceName": {
