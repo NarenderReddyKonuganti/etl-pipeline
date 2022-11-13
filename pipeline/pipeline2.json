@@ -22,7 +22,10 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/Repos/narenderreddy548@gmail.com/etl-pipeline/data-load"
+					"notebookPath": "/Repos/narenderreddy548@gmail.com/etl-pipeline/data-load-transform",
+					"baseParameters": {
+						"filename": "SRDataEngineerChallenge_DATASET.csv"
+					}
 				},
 				"linkedServiceName": {
 					"referenceName": "AzureDatabricks1",
