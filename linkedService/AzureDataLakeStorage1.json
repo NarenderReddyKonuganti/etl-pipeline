@@ -4,11 +4,7 @@
 		"annotations": [],
 		"type": "AzureBlobFS",
 		"typeProperties": {
-			"url": "https://airbnbstorageaccount.dfs.core.windows.net/",
-			"credential": {
-				"referenceName": "credential1",
-				"type": "CredentialReference"
-			}
+			"url": "https://airbnbstorageaccount.dfs.core.windows.net/"
 		}
 	}
 }
