@@ -1,5 +1,5 @@
 {
-	"name": "pipeline2",
+	"name": "sfl_datacopy_pipeline",
 	"properties": {
 		"activities": [
 			{
